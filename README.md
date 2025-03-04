@@ -80,4 +80,3 @@ start to start the development server.
 ![mobile (5)](https://github.com/Ajith101/shopping-cart/assets/41799543/4ca4e416-139c-4e33-acf4-a6129f2d8857)
 ![mobile (6)](https://github.com/Ajith101/shopping-cart/assets/41799543/912d6aee-50b1-46de-b5c9-3f453b154b52)
 ![mobile (7)](https://github.com/Ajith101/shopping-cart/assets/41799543/d5c513f9-efdd-48e6-aaf1-0c2363e227d5)
-# E-kart
